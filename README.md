@@ -51,7 +51,7 @@ So far, I have worked on:
 - Docker
 - Postman
 
-## 📌 Projects
+## Projects
 
 ### NASA Turbofan Predictive Maintenance
 Machine learning project for predictive maintenance classification using
@@ -60,7 +60,7 @@ NASA C-MAPSS turbofan engine data.
 ### Ecoacoustic Species Classification
 Machine learning project for species classification using acoustic data.
 
-## 📫 Connect with me
+## Connect with me
 
 - LinkedIn: [Marco Apolinario](www.linkedin.com/in/marco-esau-zinedine-apolinario-lainez)
 - GitHub: [supermanzana-git](https://github.com/supermanzana-git)
