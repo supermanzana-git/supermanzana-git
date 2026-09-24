@@ -29,7 +29,7 @@ So far, I have worked on:
 
 **Tech Stack:** Python · FastAPI · PostgreSQL · Supabase · Git · GitHub · SonarQube
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -62,5 +62,5 @@ Machine learning project for species classification using acoustic data.
 
 ## Connect with me
 
-- LinkedIn: [Marco Apolinario](www.linkedin.com/in/marco-esau-zinedine-apolinario-lainez)
+- LinkedIn: [Marco Apolinario](https://www.linkedin.com/in/marco-esau-zinedine-apolinario-lainez/)
 - GitHub: [supermanzana-git](https://github.com/supermanzana-git)
